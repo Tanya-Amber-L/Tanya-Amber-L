@@ -4,7 +4,7 @@
 
 # Helloooo 👋 I'm a Junior Web Developer!
 
-### Skills 
+## Skills 
 ![HTML](ressources/html.png)
 ![CSS](ressources/css-3.png)
 ![SCSS](ressources/sass.png)
@@ -16,6 +16,8 @@
 ![MySQL](ressources/mysql.png)
 ![Wordpress](ressources/wordpress.png)
 
-### GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanya-Amber-L&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanya-Amber-L&show_icons=true&line_height=27&count_private=true&t&hide=prs,issues" alt="Martin's GitHub Stats" />
+## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Tanya-Amber-L&show_icons=true&line_height=27&count_private=true&t&hide=prs,issues&hide_title=true&theme=prussian" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanya-Amber-L&layout=compact&hide=hack&theme=prussian" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanya-Amber-L&repo=Registration-form&theme=prussian" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanya-Amber-L&repo=Tic-Tac-Toe&theme=prussian" />
