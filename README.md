@@ -30,5 +30,5 @@ These are the languages and Frameworks that I worked with. I am currently workin
 
 <details>
     <summary>Ressources</summary>
-    My icons are from [FlatIcon](https://www.flaticon.com/) and the beautiful SVG in my banner from [unDraw](https://undraw.co/)
+    <p>My icons are from https://www.flaticon.com/ and the beautiful SVG in my banner from https://undraw.co/</p>
 </details>
