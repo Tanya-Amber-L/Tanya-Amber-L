@@ -1,8 +1,8 @@
-![Header](ressources/header.png "Header")
+[![Header](ressources/header.png "Header")](https://tanya-amber-l.github.io/Tanya-Leenders/)
 
-### Helloooo 👋
+---
 
-## I'm a Junior Web Developer!
+# Helloooo 👋 I'm a Junior Web Developer!
 
 ### Skills 
 ![HTML](ressources/html.png)
@@ -16,9 +16,5 @@
 ![MySQL](ressources/mysql.png)
 ![Wordpress](ressources/wordpress.png)
 
-### Some of my projects
-* []()
-* []()
-* []()
-* []()
-* []()
+### GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&layout=compact" />
