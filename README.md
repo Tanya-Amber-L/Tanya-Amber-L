@@ -17,7 +17,10 @@
 ![Wordpress](ressources/wordpress.png)
 
 ## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Tanya-Amber-L&show_icons=true&line_height=27&count_private=true&t&hide=prs,issues&hide_title=true&theme=prussian" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanya-Amber-L&layout=compact&hide=hack&theme=prussian" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanya-Amber-L&repo=Registration-form&theme=prussian" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanya-Amber-L&repo=Tic-Tac-Toe&theme=prussian" />
+[![Stats](https://github-readme-stats.vercel.app/api?username=Tanya-Amber-L&show_icons=true&line_height=27&count_private=true&t&hide=prs,issues&hide_title=true&theme=prussian)](https://github.com/Tanya-Amber-L/Tanya-Amber-L)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanya-Amber-L&layout=compact&card_width=300&hide=hack&theme=prussian)](https://github.com/Tanya-Amber-L/Tanya-Amber-L)
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Tanya-Amber-L&repo=Registration-form&theme=prussian)](https://github.com/Tanya-Amber-L/Registration-form)
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Tanya-Amber-L&repo=Tic-Tac-Toe&theme=prussian)](https://github.com/Tanya-Amber-L/Tic-Tac-Toe)
