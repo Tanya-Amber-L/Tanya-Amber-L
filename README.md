@@ -1,9 +1,9 @@
-[![Header](ressources/header.png "Header")](https://tanya-amber-l.github.io/Tanya-Leenders/)
+[![Header](ressources/github-banner.png "Header")](https://tanya-amber-l.github.io/Tanya-Leenders/)
 
 ---
 
 # Helloooo 👋 I'm a Junior Web Developer!
-You can check my CV by clicking on the header &#128521;
+You can check my CV by clicking on the header &#128521; (I'm currently doing a version 2, revieing my visual identity)
 
 ## Skills 
 These are the languages and Frameworks that I worked with. I am currently working on personnal projects to improve my skills in Wordpress, PHP and React. 
